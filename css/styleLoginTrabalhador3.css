@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(238, 238, 238);
+}
+
+#img1{
+
+    margin-top: 10%;
+}
+
+#font1{
+
+    font-size: 35px;
+    color: rgb(0, 0, 0);
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+}
+
+#email{
+    margin: 10px;
+    width: 30%;
+    margin-bottom: 0%;
+}
+
+#senha{
+    width: 30%;
+    margin-bottom: -1%;
+}
+
+#button {
+    border: none;
+    color: rgb(255, 255, 255);
+    background-color:rgb(22, 111, 194);
+    width: 30%;
+    height: 50px;
+    border-radius: 1em;
+    text-align: center;
+    display: inline-block;
+    font-size: 25px;
+  }
+
